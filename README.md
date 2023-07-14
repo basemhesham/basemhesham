@@ -17,7 +17,7 @@
 
 - 🔭 I am currently senior student at Zagzig University studying Communication and Electronics Engineering.
 
-- 🌱 I’m currently learning physical verification , Floor planning , Power planning , Placement , Routing and chip finishing
+- 🌱 I’m currently learning physical verification , Floor planning , Power planning , Placement , Routing and chip finishing.
 
 - 💬  Ask me about FPGA/ASIC Design Design "Verilog, STA, PnR"
 
@@ -27,6 +27,7 @@
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
+<p></p>
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
