@@ -15,7 +15,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I am currently senior student at Zagzig University studying Communication and Electronics Engineering.
+- 🔭 I am currently ECE Fresh Graduate from Zagzig University .
 
 - 🌱 I’m currently learning physical verification , Floor planning , Power planning , Placement , Routing and chip finishing.
 
