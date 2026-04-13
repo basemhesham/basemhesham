@@ -25,9 +25,9 @@
 ### 👨‍💻 About Me
 
 - 🎓 **B.Sc. in Electronics & Communications Engineering** — Zagazig University | Ranked **3rd** with **90.3% (Excellent with Honors)**
-- 🔭 Currently leading the **full RTL-to-GDSII** flow for a 12-slot OpenFrame Multi-Project Chip at the American University in Cairo (AUC)
+- 🔭 Leading the **full RTL-to-GDSII** flow for a 12-slot OpenFrame Multi-Project Chip @ AUC
 - 🏭 **Digital Design Intern** @ STMicroelectronics — Designed convolution engine for SNN accelerator on FPGA
-- 🧪 **Digital Verification Intern** @ Si-Vision Academy — Developed UVM verification environments using SystemVerilog
+- 🧪 **Digital Verification Intern** @ Si-Vision Academy — Built UVM verification environments using SystemVerilog
 - 💡 Passionate about **ASIC Physical Design**, **Static Timing Analysis (STA)**, **Physical Verification**, and **EDA Tool Automation**
 - 📫 Reach me at: **basemhesham@aucegypt.edu**
 
