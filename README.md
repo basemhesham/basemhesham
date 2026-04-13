@@ -35,7 +35,7 @@
 
 ### 🛠️ Technical Skills
 
-#### Common Tools (Animated Icons)
+#### Common Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,linux,bash" />
 </p>
