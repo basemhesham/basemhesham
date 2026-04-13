@@ -86,5 +86,5 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/basemhesham/basemhesham/output/snake.svg" alt="Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/basemhesham/basemhesham/main/dist/snake.svg" alt="Contribution Snake"/>
 </p>
