@@ -33,25 +33,31 @@
 
 ---
 
-### 🛠️ Technical Skills
+### 🛠️ Technical Skills (Animated Icons)
 
-#### HDL & Verification
-![Verilog](https://img.shields.io/badge/Verilog-FF6B35?style=for-the-badge&logo=verilog&logoColor=white)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-0075A8?style=for-the-badge&logo=verilog&logoColor=white)
-![UVM](https://img.shields.io/badge/UVM-6A0DAD?style=for-the-badge&logoColor=white)
+<p align="center">
+  <!-- HDL & Verification -->
+  <img src="https://skillicons.dev/icons?i=verilog" alt="Verilog" />
+  <img src="https://skillicons.dev/icons?i=systemverilog" alt="SystemVerilog" />
+  <img src="https://skillicons.dev/icons?i=uvm" alt="UVM" />
+</p>
 
-#### EDA Tools & Flows
-![Synopsys ICC2](https://img.shields.io/badge/Synopsys_ICC2-FF0000?style=for-the-badge&logoColor=white)
-![Design Compiler](https://img.shields.io/badge/Design_Compiler-FF6B35?style=for-the-badge&logoColor=white)
-![PrimeTime](https://img.shields.io/badge/PrimeTime-0075A8?style=for-the-badge&logoColor=white)
-![OpenLane](https://img.shields.io/badge/OpenLane-6A0DAD?style=for-the-badge&logoColor=white)
-![QuestaSim](https://img.shields.io/badge/QuestaSim-4CAF50?style=for-the-badge&logoColor=white)
+<p align="center">
+  <!-- EDA Tools -->
+  <img src="https://skillicons.dev/icons?i=synopsys" alt="Synopsys ICC2" />
+  <img src="https://skillicons.dev/icons?i=dc" alt="Design Compiler" />
+  <img src="https://skillicons.dev/icons?i=primetime" alt="PrimeTime" />
+  <img src="https://skillicons.dev/icons?i=openlane" alt="OpenLane" />
+  <img src="https://skillicons.dev/icons?i=questasim" alt="QuestaSim" />
+</p>
 
-#### FPGA & Scripting
-![Intel Quartus](https://img.shields.io/badge/Quartus-0050EF?style=for-the-badge&logo=intel&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![TCL](https://img.shields.io/badge/TCL-003366?style=for-the-badge&logoColor=white)
-![Bash](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<p align="center">
+  <!-- FPGA & Scripting -->
+  <img src="https://skillicons.dev/icons?i=quartus" alt="Quartus" />
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=tcl" alt="TCL" />
+  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" />
+</p>
 
 ---
 
