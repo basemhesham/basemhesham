@@ -1,75 +1,94 @@
-<h1 align="center">Basem Hesham Tawfik</h1>
-<h3 align="center">ASIC Physical Design Engineer · Research Assistant @ AUC</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6A0DAD&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Basem+Hesham;ASIC+Physical+Design+Engineer;RTL-to-GDSII+Specialist;Hardware+Verification+Engineer" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">🔬 Electronics & Communications Engineer · Research Assistant @ AUC</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=basemhesham&label=Profile%20views&color=6A0DAD&style=flat" alt="Profile views" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/basem-hesham1/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:basemhesham@aucegypt.edu">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/basemhesham">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://bit.ly/3NKAfSb">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## About Me
+### 👨‍💻 About Me
 
-Electronics & Communications Engineer from Zagazig University (ranked **3rd / 90.3% — Excellent with Honors**), now working as a Research Assistant at AUC. I specialize in **ASIC Physical Design**, with hands-on experience across the full RTL-to-GDSII flow using both industry-standard tools (Synopsys ICC2) and open-source flows (LibreLane / Sky130 PDK).
-
-My interests span physical design, logic synthesis, static timing analysis, and hardware verification — with a strong focus on EDA automation and building scalable design flows.
-
----
-
-## What I'm Currently Working On
-
-- **AUC** — Leading the full physical design flow for an **OpenFrame Multi-Project chip** (12 design slots) using LibreLane and Sky130 PDK, from synthesis through tape-out sign-off.
-- **STMicroelectronics** — Designing the convolution engine for an **SNN hardware accelerator** in Verilog, targeting Virtex UltraScale+ FPGAs.
-- **Si-Vision Academy** — Building modular **UVM verification environments** in SystemVerilog with constrained-random testing, coverage models, and scoreboards.
+- 🎓 **B.Sc. ECE** — Zagazig University | Ranked **3rd** with **90.3% (Excellent with Honors)**
+- 🔭 Currently leading **RTL-to-GDSII** flow for an OpenFrame Multi-Project chip at **AUC**
+- 🏭 **Digital Design & FPGA Intern** @ STMicroelectronics — SNN accelerator convolution engine
+- 🧪 **Digital Verification Intern** @ Si-Vision Academy — UVM environments in SystemVerilog
+- 💡 Passionate about **ASIC Design**, **Physical Verification**, **STA**, and **EDA Automation**
+- 📫 Reach me at: **basemhesham@aucegypt.edu**
 
 ---
 
-## Technical Skills
+### 🛠️ Tech Stack
 
-| Area | Tools & Languages |
-|---|---|
-| HDL | Verilog, SystemVerilog |
-| Verification | UVM, SVA, Constrained-Random (CRV), Functional/Code Coverage |
-| EDA Tools | Synopsys DC, ICC2, PrimeTime, QuestaSim, VCS, ModelSim, Quartus |
-| Physical Design | OpenLane, LibreLane, Sky130 PDK |
-| Scripting & OS | TCL, Shell, Linux |
-| Protocols | UART, SPI, I2C |
+#### HDL & Verification
+![Verilog](https://img.shields.io/badge/Verilog-FF6B35?style=for-the-badge&logo=v&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-0075A8?style=for-the-badge&logo=v&logoColor=white)
+![UVM](https://img.shields.io/badge/UVM-6A0DAD?style=for-the-badge&logoColor=white)
 
----
+#### EDA Tools
+![Synopsys](https://img.shields.io/badge/Synopsys_ICC2-FF0000?style=for-the-badge&logoColor=white)
+![Design Compiler](https://img.shields.io/badge/Design_Compiler-FF6B35?style=for-the-badge&logoColor=white)
+![PrimeTime](https://img.shields.io/badge/PrimeTime-0075A8?style=for-the-badge&logoColor=white)
+![QuestaSim](https://img.shields.io/badge/QuestaSim-4CAF50?style=for-the-badge&logoColor=white)
+![OpenLane](https://img.shields.io/badge/OpenLane-6A0DAD?style=for-the-badge&logoColor=white)
 
-## Selected Projects
-
-### OpenFrame Multi-Project ASIC
-RTL-to-GDSII implementation for a 12-slot multi-project chip using LibreLane and Sky130 PDK. Includes custom floorplanning scripts, automated macro placement, and full power network verification.  
-[View on GitHub →](https://github.com/basemhesham/openframe_multiproject)
-
-### AES-Based Vector RISC-V Microprocessor *(Graduation Project — Excellent)*
-Complete digital design flow in 32nm with 9 metal layers at 200 MHz. Synthesized in Design Compiler, place-and-routed in ICC2, timing closure verified in PrimeTime.
-
-### AES Verification — UVM Environment
-UVM testbench for functional verification of an AES encryption module, covering key generation, encryption flows, and compliance against design specifications.
-
-### SNN Accident Detection Accelerator
-Convolution stage design for an SNN-based accident detection system, optimized in Verilog for reduced computational complexity and improved throughput.
+#### FPGA & Scripting
+![Quartus](https://img.shields.io/badge/Quartus-0050EF?style=for-the-badge&logo=intel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![TCL](https://img.shields.io/badge/TCL-003366?style=for-the-badge&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 
-## Education
+### 🚀 Featured Projects
 
-**B.Sc. Electronics & Communications Engineering**  
-Zagazig University · Sep 2019 – Jun 2024  
-Cumulative Grade: **Excellent with Honors (90.3%)** · Class Rank: **3rd**
+| Project | Description | Tools |
+|---|---|---|
+| [OpenFrame Multi-Project ASIC](https://github.com/basemhesham/openframe_multiproject) | 12-slot multi-project chip, full RTL-to-GDSII | LibreLane, Sky130 PDK |
+| AES Vector RISC-V Processor | 32-bit RISC, 32nm, 9 metal layers, 200 MHz | DC, ICC2, PrimeTime |
+| AES UVM Verification | Full UVM testbench for AES encryption module | SystemVerilog, UVM |
+| SNN Accident Detector | Convolution engine for SNN-based accelerator | Verilog, Virtex UltraScale+ |
 
 ---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=basemhesham&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basemhesham&layout=compact&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=basemhesham&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basemhesham&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=basemhesham&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=basemhesham&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/basemhesham/basemhesham/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
