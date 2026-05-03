@@ -103,8 +103,13 @@ I'm an Electronics & Communications Engineer (ranked **3rd / 90.3% — Excellent
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=basemhesham&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basemhesham&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=basemhesham&theme=tokyonight" alt="Profile Details" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=basemhesham&theme=tokyonight" height="165" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=basemhesham&theme=tokyonight" height="165" alt="Repos Per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=basemhesham&theme=tokyonight" height="165" alt="Most Commit Language"/>
 </p>
 
 <p align="center">
